@@ -1,6 +1,6 @@
 @extends('type.layouts.app')
 
-@section('title', 'HTML/CSS Interview Question')
+@section('title', 'Testing Interview Question')
 
 @section('sidebar')
     @parent
@@ -8,7 +8,7 @@
 @endsection
 
 @section('content')
-    <h3><b>HTML/CSS Interview Question</b></h3>
+    <h3><b>Testing Interview Question</b></h3>
     <br>
     <div class="container">
         <div class="question-answer-block">
